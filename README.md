@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saurabhdalvi93
-- 👀 I’m interested in java, spring boot, angular, hibernate, sql
+- 👀 I’m interested in Java, Spring Boot, Angular, Hibernate, SQL
 - 🌱 I’m currently learning DSA & System Design.
 - 💞️ I’m looking to collaborate on R & D projects with new innovative ideas.
 - 📫 Reach me on saurabhdalvi93@gmail.com
