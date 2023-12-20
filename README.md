@@ -1,5 +1,4 @@
-![api-c99e353f761d318322c853c03ebcf21b](https://github.com/saurabhdalvi93/saurabhdalvi93/assets/126389839/c2208fba-850d-4e67-a1bb-3da2eb515bbb)
-
+![1_lhOax3cZATGZwEhG0uTYRA](https://github.com/saurabhdalvi93/saurabhdalvi93/assets/126389839/9eeff3b4-b32d-4f47-abe6-14138583a540)
 
 - 👋 Hi, This is Saurabh Dalvi
 - 👀 I’m interested in Java, Spring Boot, Angular, Hibernate, SQL
