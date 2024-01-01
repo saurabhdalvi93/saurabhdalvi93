@@ -4,7 +4,7 @@
 - 👀 I’m interested in Java, Spring Boot, Angular, Hibernate, SQL
 - 🌱 I’m currently learning DSA & System Design.
 - 💞️ I’m looking to collaborate on R & D projects with fresh, innovative & creative ideas.
-- 📫 Reach me on saurabhdalvi93@gmail.com
+- 📫 You can reach me saurabhdalvi93@gmail.com ;)
 
 <!---
 saurabhdalvi93/saurabhdalvi93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
