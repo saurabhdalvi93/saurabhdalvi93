@@ -3,7 +3,7 @@
 - 👋 Hi, This is Saurabh Dalvi
 - 👀 I’m interested in Java 8, Spring Boot, Angular, Hibernate, SQL
 - 🌱 I’m currently learning DSA & System Design.
-- 💞️ I’m looking to collaborate on R & D projects with fresh, innovative & creative ideas.
+- 💞️ I’m looking to collaborate on R & D projects with fresh, innovative ideas.
 - 📫 You can reach me saurabhdalvi93@gmail.com ;)
 
 <!---
