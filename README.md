@@ -1,4 +1,4 @@
-![OyGx](https://github.com/saurabhdalvi93/saurabhdalvi93/assets/126389839/ea34df07-b88f-4910-b55a-0a3fff24d76a)
+![1CFAeP1I6qiU-ZMb-O4xyOA](https://github.com/saurabhdalvi93/saurabhdalvi93/assets/126389839/0d409caa-d32f-4933-8d3e-1ac3ba8e7af5)
 
 - 👋 Hi, This is Saurabh Dalvi
 - 👀 I’m interested in Java technologies as well as Machine Learning concepts.
