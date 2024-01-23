@@ -1,4 +1,4 @@
-![1_lhOax3cZATGZwEhG0uTYRA](https://github.com/saurabhdalvi93/saurabhdalvi93/assets/126389839/9eeff3b4-b32d-4f47-abe6-14138583a540)
+https://i.gifer.com/OyGx.gif
 
 - 👋 Hi, This is Saurabh Dalvi
 - 👀 I’m interested in Java technologies as well as Machine Learning concepts.
