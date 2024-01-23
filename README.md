@@ -1,4 +1,4 @@
-<div style="padding-top:56.324%;position:relative;"><iframe src="https://gifer.com/embed/OyGx" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+https://images.app.goo.gl/vquXwpXJWaEfjGy98
 
 - 👋 Hi, This is Saurabh Dalvi
 - 👀 I’m interested in Java technologies as well as Machine Learning concepts.
