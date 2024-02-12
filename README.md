@@ -4,7 +4,7 @@
 - 👀 I’m interested in Java and Machine learning technologies
 - 🌱 I’m looking for full-time opportunity in ML-Software Engineering domain
 - 💞️ I’m looking forward to collaborate on more ML projects demanding innovation
-- 📫 Kindly reach me saurabhdalvi93@gmail.com
+- 📫 Don't hesitate to reach me on saurabhdalvi93@gmail.com
 
 <!---
 saurabhdalvi93/saurabhdalvi93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
